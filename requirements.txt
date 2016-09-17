@@ -1,0 +1,13 @@
+dj-database-url==0.4.0
+Django==1.9.2
+gunicorn==19.4.5
+psycopg2==2.6.1
+whitenoise==2.0.6
+requests==2.9.1
+newspaper==0.0.9.8
+nltk==3.2.1
+numpy==1.8.1
+textblob==0.11.1
+boto==2.38.0
+boto3==1.3.0
+botocore==1.4.11
